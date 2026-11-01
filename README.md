@@ -1,2 +1,3 @@
-# Lab 1 Repository
-Master content line
+# Lab 1 & 2 Repository
+Master content
+Feature content line
